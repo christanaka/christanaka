@@ -4,9 +4,6 @@
     <b>chris<a href="https://github.com/rentler" title="rentler">@rentler</a></b>
       <b>os:</b> windows
    <b>shell:</b> powershell
-     <b>cpu:</b> <i>todo</i>
-     <b>mem:</b> <i>todo</i>
-     <b>gpu:</b> <i>todo</i>
   <b>editor:</b> visual studio, vs code
     <b>term:</b> windows terminal
    <b>stack:</b> c#, dotnet, aspnet,
@@ -18,5 +15,5 @@
 
   Generated with &#9829; via <a href="https://github.com/chrishtanaka/ghfetch" title="ghfetch">ghfetch</a>
   
-<b>> _</b>
+<b>> <img align="top" src="https://user-images.githubusercontent.com/2514771/93036534-5fbd6480-f5fd-11ea-8a13-58ef04796c17.gif" alt="cursor" width="10" height="18" /></b>
 </pre>
